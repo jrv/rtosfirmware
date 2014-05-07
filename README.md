@@ -1,7 +1,7 @@
 # Embedded software (firmware) for LaOs laser
 RTOS experimental version
 
-==Build setup, using MBED library and GCC
+##Build setup, using MBED library and GCC
 
 * Get your compiler here: https://launchpad.net/gcc-arm-embedded
 * Download LaosLaser source
