@@ -1,5 +1,5 @@
 #!/bin/sh
 # quick and dirty way to recompile the whole thing
 cd ../mbed
-rm -rf build/test/LPC1768/GCC_ARM/rtoslaser
-python workspace_tools/make.py -m LPC1768 -t GCC_ARM -n rtoslaser
+rm -rf build/test/LPC1768/GCC_ARM/rtosfirmware
+python workspace_tools/make.py -m LPC1768 -t GCC_ARM -n rtosfirmware

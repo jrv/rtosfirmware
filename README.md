@@ -27,7 +27,7 @@ python workspace_tools/build.py -m LPC1768 -t GCC_ARM -r -e -u -c
 ```
 * Link LaOSlaser as an mbed example project
 ```
-cd Firmware/mbed/libraries/tests/net/protocols/
+cd mbed/libraries/tests/net/protocols/
 ln -s  ../../../../../rtosfirmware .
 ```
 * Build LaosLaser:
