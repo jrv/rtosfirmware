@@ -33,7 +33,7 @@ ln -s  ../../../../../rtosfirmware .
 * Build LaosLaser:
 ```
 cd mbed
-python workspace_tools/make.py -m LPC1768 -t GCC_ARM -n laser
+python workspace_tools/make.py -m LPC1768 -t GCC_ARM -n rtosfirmware
 ```
 
 *Read http://mbed.org/handbook/mbed-tools for more info*
