@@ -61,7 +61,7 @@
 #include "global.h"
 #include "laosstatus.h"
 #include "pins.h"
-#include "laosmotion.h"
+#include "LaosMotion.h"
 #include "EthConfig.h"
 #include "TFTPServer.h"
 

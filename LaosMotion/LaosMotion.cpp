@@ -23,7 +23,7 @@
  *
  */
 #include "global.h"
-#include "laosmotion.h"
+#include "LaosMotion.h"
 #include  "planner.h"
 #include  "stepper.h"
 #include  "pins.h"

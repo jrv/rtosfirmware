@@ -29,7 +29,7 @@
   "Generate stepper-motor speed profiles in real time" David Austin 2004
    published at http://www.eetimes.com/design/embedded/4006438/Generate-stepper-motor-speed-profiles-in-real-time and others.
 */
-#include <laosmotion.h>
+#include <LaosMotion.h>
 #include "pins.h"
 
 #include <math.h>
